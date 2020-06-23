@@ -4,4 +4,4 @@
 
 Concepts used : SSH,scp git, containerization, mount, and jenkins Email notification.  
 
-**Note :     is zip file, to know more just download,unzip it and enjoy learning!
+**Note :  devops-task2.tar is zip file, to know more just download,unzip it and enjoy learning!**
